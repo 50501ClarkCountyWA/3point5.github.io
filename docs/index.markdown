@@ -1,7 +1,8 @@
 ---
 #layout: home
 layout: page
-title: "TESTTESTTEST"
-subtitle: "This is a subtitle"
+title: "Get your protest on"
+subtitle: "Hit the streets!"
 hide: true
+feature-img: "img/background.jpg"
 ---
