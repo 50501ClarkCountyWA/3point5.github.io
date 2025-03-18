@@ -1,6 +1,6 @@
 ---
 #layout: home
-layout: page
+layout: home
 title: "TESTTESTTEST"
 subtitle: "This is a subtitle"
 hide: true
