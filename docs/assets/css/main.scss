@@ -1,7 +1,8 @@
 // assets/css/main.scss
 ---
 ---
-
+@import "testnotexisting";
 @import "variables-custom";
 @import "type-theme";
 @import "styles-custom";
+@import "testnotexisting2";
