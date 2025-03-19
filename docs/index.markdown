@@ -7,9 +7,7 @@ hide: true
 feature-img: "img/background.jpg"
 ---
 
-<p style="text-align: center;">
 ![counting ticket picture](/img/ticket.png)
-</p>
 
 ## Thank You for Joining the April 5, 2025 "Hands Off" Demonstration!
 
