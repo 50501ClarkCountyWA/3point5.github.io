@@ -7,6 +7,8 @@ hide: true
 feature-img: "img/background.jpg"
 ---
 
+<p style="text-align: center;">![counting ticket picture](/img/ticket.png)</p>
+
 ## Thank You for Joining the April 5, 2025 "Hands Off" Demonstration!
 
 On April 5, 2025, you took part in the "Hands Off" demonstration at Esther Short Park in Vancouver, Washington, alongside hundreds of passionate individuals who care about protecting democracy and resisting executive overreach. Whether you held a sign, joined a chant, or showed up in solidarity, your participation matters.
