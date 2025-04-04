@@ -15,6 +15,10 @@ On April 5, 2025, you took part in the "Hands Off" demonstration at Esther Short
 
 Accurate crowd counts help build momentum for change and strengthen our efforts to create a more just and democratic society.
 
+## Next Steps: Pledge your support to being one of the 3.5% we need to mobilize for change!
+
+Head to [3point5.info](https://3point5.info) to be one of the first people to pledge to take to the streets in support of our democracy!  Research has shown that political change becomes inevitable once at least 3.5% of the population is mobilized and on the streets in protest.  This site gives resources for how to find events in your area, and is a great place to send people who are interested in joining the protest movement.  Come back over time and watch our county, state, and country particpation numbers grow!
+
 ## Why We’re Counting Protesters: The Power of Numbers
 
 The Crowd Counting Consortium (CCC) tracks protest participation across the country, and every count helps demonstrate the growing momentum of dissent. These numbers are critical in showing decision-makers the widespread public demand for action, holding our leaders accountable, and contributing to efforts like Trump’s potential "irregular" exit from office.
